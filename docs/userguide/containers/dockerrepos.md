@@ -42,6 +42,7 @@ You can now commit and push your own images up to your repos on Docker Hub.
 > **Note:**
 > Your authentication credentials will be stored in the `~/.docker/config.json`
 > authentication file in your home directory.
+> For Windows users, those credentials will be stored in `$HOME/.docker/config.json`
 
 ## Searching for images
 
